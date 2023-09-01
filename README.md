@@ -41,7 +41,8 @@ Before running the project, ensure you have the following prerequisites:
 
    ```bash
    git clone https://github.com/your-username/virtual-try-on-project.git
-  ```
+   
+
 2. Navigate to project directory
 
    ```bash
