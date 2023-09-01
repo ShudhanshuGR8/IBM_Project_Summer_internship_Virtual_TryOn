@@ -49,13 +49,12 @@ Before running the project, ensure you have the following prerequisites:
    cd virtual-try-on-project
    ```
 3. Set up a virtual environment (recommended) and activate it:
-
-  ```bash
-  python3 -m venv venv
-  source venv/bin/activate
-  ```
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
 
 4. Install the required dependencies:
-  ```bash
-  pip install -r requirements.txt
-  ```
+    ```bash
+    pip install -r requirements.txt
+    ```
