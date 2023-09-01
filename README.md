@@ -31,10 +31,9 @@ The Virtual Try-On Project aims to enhance the online shopping experience by all
 Before running the project, ensure you have the following prerequisites:
 
 - Operating System: Windows 10 / macOS / Linux
-- Webcam: A functional webcam connected to your computer
-- Python: Version 3.6 or higher
+- Python: Version 3.6 or highe
 - Augmented Reality Library: Install the necessary AR library (e.g., ARKit, ARCore)
-
+- Libraries mentioned in the requirements.txt file
 ### Installation
 
 1. Clone this repository to your local machine using the following command:
